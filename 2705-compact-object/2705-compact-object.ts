@@ -19,7 +19,7 @@ function compactObject(obj: Obj): Obj {
     }
 
     //handle object
-    const result: Obj = {};
+    const result: Record<string, JSONValue> = {};
     for(const key in obj){
         const val = obj[key];
 
