@@ -13,7 +13,6 @@ function promiseAll<T>(functions: Fn<T>[]): Promise<T[]> {
         functions.forEach((item, index) => {
             Promise.resolve(item()).then(value => {
                 result[index] = value;
-                console.log('result:',result[index], 'value',value)
                 count++;
 
                 if(count === functions.length){
