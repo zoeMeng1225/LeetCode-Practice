@@ -1,5 +1,6 @@
 function canJump(nums: number[]): boolean {
     //logic，maintain a variable(fastest place can reach)
+    //current index(position) + jump length(nums[i]) = last index(nums.length - 1)
     let maxReach = 0;
     const target = nums.length - 1;
 
