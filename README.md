@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
@@ -45,6 +46,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 ## Depth-First Search
 |  |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0189-rotate-array) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
