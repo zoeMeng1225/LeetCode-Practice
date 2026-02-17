@@ -7,6 +7,7 @@ function rotate(nums: number[], k: number): void {
     const len = nums.length;
     //if k > nums.length
     k = k % len;
+    
     if(k === 0) return 
 
 
@@ -27,5 +28,4 @@ function rotate(nums: number[], k: number): void {
 
     //third rotation
     reverse(nums, k, len - 1)
-
 };
