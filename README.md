@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
