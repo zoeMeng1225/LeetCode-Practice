@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0133-clone-graph) |
 | [0424-longest-repeating-character-replacement](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -36,6 +38,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0424-longest-repeating-character-replacement](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
