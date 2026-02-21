@@ -20,6 +20,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0189-rotate-array) |
@@ -79,6 +80,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
@@ -86,4 +88,8 @@
 | [0045-jump-game-ii](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0134-gas-station) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
