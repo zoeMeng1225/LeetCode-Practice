@@ -24,6 +24,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
@@ -92,4 +93,9 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
