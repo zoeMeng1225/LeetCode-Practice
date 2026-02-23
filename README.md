@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0056-merge-intervals) |
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0133-clone-graph) |
