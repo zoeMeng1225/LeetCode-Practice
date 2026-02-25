@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0189-rotate-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0133-clone-graph) |
 | [0290-word-pattern](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 ## Union-Find
 |  |
@@ -106,4 +109,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
