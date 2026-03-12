@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0125-valid-palindrome) |
