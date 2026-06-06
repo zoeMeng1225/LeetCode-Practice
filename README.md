@@ -57,6 +57,7 @@
 | [0006-zigzag-conversion](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -73,6 +74,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
@@ -158,4 +160,8 @@
 | [1661-average-time-of-process-per-machine](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
