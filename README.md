@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -55,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0013-roman-to-integer) |
@@ -67,6 +69,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
