@@ -37,6 +37,7 @@
 | [0238-product-of-array-except-self](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0133-clone-graph) |
 | [0290-word-pattern](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 ## Union-Find
@@ -129,10 +131,12 @@
 | [0056-merge-intervals](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
 | [0274-h-index](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -172,4 +176,20 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
