@@ -39,6 +39,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0560-subarray-sum-equals-k](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0347-top-k-frequent-elements](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
