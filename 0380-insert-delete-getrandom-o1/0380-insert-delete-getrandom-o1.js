@@ -1,7 +1,7 @@
 
 var RandomizedSet = function() {
-    this.nums = [];
-    this.map = new Map();
+  this.nums = [];
+  this.map = new Map();
 };
 
 /** 
@@ -9,14 +9,11 @@ var RandomizedSet = function() {
  * @return {boolean}
  */
 RandomizedSet.prototype.insert = function(val) {
-    
-    if(this.map.has(val)){
-        return false;
-    }
+    if (this.map.has(val)) return false;
 
-    this.nums.push(val)
-    this.map.set(val, this.nums.length -1)
-    return true
+  this.nums.push(val);
+  this.map.set(val, this.nums.length - 1);
+  return true;
 };
 
 /** 
@@ -24,29 +21,27 @@ RandomizedSet.prototype.insert = function(val) {
  * @return {boolean}
  */
 RandomizedSet.prototype.remove = function(val) {
-    if(!this.map.has(val)){
-        return false
-    }
+     if (!this.map.has(val)) return false;
 
-   const index = this.map.get(val);
-   const lastNum = this.nums.pop();
+  let index = this.map.get(val); //find the index of val
+  //find the last number for 填坑到要删除的位置
+  let lastNum = this.nums.pop();
 
-   if(val !== lastNum){
-    this.nums[index] = lastNum 
-    this.map.set(lastNum, index)
-   }
+  if (val !== lastNum) {
+    this.nums[index] = lastNum;
+    this.map.set(lastNum, index);
+  }
 
-   this.map.delete(val)
-   return true
+  this.map.delete(val);
+  return true;
 };
 
 /**
  * @return {number}
  */
 RandomizedSet.prototype.getRandom = function() {
-    const randomIndex = Math.floor(Math.random() * this.nums.length);
-    return this.nums[randomIndex]
-
+      const randomIndex = Math.floor(Math.random() * this.nums.length);
+  return this.nums[randomIndex];
 };
 
 /** 
