@@ -1,7 +1,7 @@
 
 var RandomizedSet = function() {
-  this.nums = [];
-  this.map = new Map();
+    this.map = new Map();
+    this.nums = [];
 };
 
 /** 
@@ -9,39 +9,41 @@ var RandomizedSet = function() {
  * @return {boolean}
  */
 RandomizedSet.prototype.insert = function(val) {
-    if (this.map.has(val)) return false;
+    if(this.map.has(val))return false;
 
-  this.nums.push(val);
-  this.map.set(val, this.nums.length - 1);
-  return true;
+    this.nums.push(val);
+    this.map.set(val, this.nums.length-1);
+    return true;
 };
 
 /** 
  * @param {number} val
  * @return {boolean}
  */
+ //[10, 20,30], remove(20)
 RandomizedSet.prototype.remove = function(val) {
-     if (!this.map.has(val)) return false;
+    if(!this.map.has(val)) return false;
 
-  let index = this.map.get(val); //find the index of val
-  //find the last number for 填坑到要删除的位置
-  let lastNum = this.nums.pop();
+    const index = this.map.get(val) // find the index of value
+    const lastNum = this.nums.pop(); // find the last index
+    if(val !== lastNum){
+        this.nums[index] = lastNum; //[10, 30]
+        this.map.set(lastNum, index); // [10->0, 20->1, 30 -> 1]
+    }
 
-  if (val !== lastNum) {
-    this.nums[index] = lastNum;
-    this.map.set(lastNum, index);
-  }
-
-  this.map.delete(val);
-  return true;
+    this.map.delete(val)
+    return true;
 };
 
 /**
  * @return {number}
  */
 RandomizedSet.prototype.getRandom = function() {
-      const randomIndex = Math.floor(Math.random() * this.nums.length);
-  return this.nums[randomIndex];
+    //use math.floor(): round down and return a interger
+    //and math.random() return a random number
+    const randomNumber = Math.floor(Math.random() * this.nums.length);
+    return this.nums[randomNumber]
+
 };
 
 /** 
