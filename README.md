@@ -196,4 +196,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
