@@ -93,6 +93,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0133-clone-graph](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0133-clone-graph) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -107,10 +108,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Two Pointers
 |  |
@@ -200,4 +203,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/zoeMeng1225/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
